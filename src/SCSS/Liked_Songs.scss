@@ -1,0 +1,108 @@
+#Liked_Songs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(100vw - 16vw);
+    overflow-y: auto;
+}
+
+#liked_area1{
+    width:95%;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-top: 30px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+#liked_area2{
+    height:max-content;
+    width:95%;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+#liked_heading{
+    height:300px;
+    flex:0 0 auto;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-top: 30px;
+    width:95%;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+#liked_heading_content{
+    height:200px;
+    width:200px;
+    margin-left:2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#liked_heading_content_right{
+    height:200px;
+    width:calc(100% - 200px);
+    margin-left:2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#header_image{
+    height: 200px;
+    width: 200px;
+    border-radius: 8px;
+}
+
+#reverse_clock{
+   font-size: 160px;
+}
+
+#description1{
+    color:white;
+    font-size: 50px;
+    font-weight: 500;
+    margin-top: -15px;
+}
+
+#description2{
+    color:rgba(255,255,255,0.8);
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#description3{
+    width:100%;
+    display:flex;
+    margin-top: 20px;
+}
+
+#default{
+    font-size:20px;
+    color:rgba(255,255,255,0.7);
+    text-align: center;
+    padding-top: 20px;
+}
+
+#btn1{
+    height:40px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}

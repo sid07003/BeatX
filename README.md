@@ -1,2 +1,2 @@
-# BeatX
-first-commit
+# beatx
+ Music Player using Reactjs

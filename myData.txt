@@ -1,0 +1,18 @@
+---------------------------------------- BeatX data --------------------------------------------------
+
+{
+    "artists":{
+        in this i will be having by main artist which is a special component of BeatX.
+        eg:-
+
+        "1":{
+            "name": .......
+            "image": ......
+        }
+        "2":{
+
+        }
+
+        and so on.
+    }
+}

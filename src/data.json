@@ -1,0 +1,82 @@
+{
+  "Artists": {
+    "1": {
+      "Id": 1,
+      "Name": "Arijit Singh",
+      "Image": "../Images/Artists/Arijit Singh.webp",
+      "artist_songs": ["1", "3", "21", "23", "24", "26", "27"]
+    },
+    "2": {
+      "Id": 2,
+      "Name": "Atif Aslam",
+      "Image": "../Images/Artists/Atif Aslam.jpg",
+      "artist_songs": ["6", "15", "22", "28", "29"]
+    },
+    "3": {
+      "Id": 3,
+      "Name": "Badshah",
+      "Image": "../Images/Artists/Badshah.jpg",
+      "artist_songs": ["4", "11", "13", "25"]
+    },
+    "4": {
+      "Id": 4,
+      "Name": "Guru Randhawa",
+      "Image": "../Images/Artists/Guru Randhawa.jpg",
+      "artist_songs": []
+    },
+    "5": {
+      "Id": 5,
+      "Name": "Hardy Sandhu",
+      "Image": "../Images/Artists/Hardy Sandhu.jpg",
+      "artist_songs": []
+    },
+    "6": {
+      "Id": 6,
+      "Name": "Honey Singh",
+      "Image": "../Images/Artists/Honey Singh.jpg",
+      "artist_songs": []
+    },
+    "7": {
+      "Id": 7,
+      "Name": "Jubin Nautiyal",
+      "Image": "../Images/Artists/Jubin Nautiyal.jpg",
+      "artist_songs": ["9", "12", "16", "18"]
+    },
+    "8": {
+      "Id": 8,
+      "Name": "Neha Kakkar",
+      "Image": "../Images/Artists/Neha Kakkar.jpg",
+      "artist_songs": []
+    },
+    "9": {
+      "Id": 9,
+      "Name": "Shreya Ghoshal",
+      "Image": "../Images/Artists/Shreya Ghoshal.webp",
+      "artist_songs": [
+        "5",
+        "7",
+        "8",
+        "10",
+        "14",
+        "17",
+        "19",
+        "20",
+        "26",
+        "29",
+        "30"
+      ]
+    },
+    "10": {
+      "Id": 10,
+      "Name": "Siddhu Moose Wala",
+      "Image": "../Images/Artists/Siddhu Moose Wala.jpg",
+      "artist_songs": []
+    },
+    "11": {
+      "Id": 11,
+      "Name": "Sonu Nigam",
+      "Image": "../Images/Artists/Sonu Nigam.avif",
+      "artist_songs": ["2", "7", "14", "31"]
+    }
+  }
+}

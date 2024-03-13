@@ -1,0 +1,250 @@
+{
+   "1": {
+       "Id": 1,
+       "Name":"Agar_Tum_Saath_Ho",
+       "Image":"Agar_Tum_Saath_Ho.jpg",
+       "Songs":"../Songs/Agar_Tum_Saath_Ho.mp3",
+       "Duration":"5:41",
+       "singers":"Arijit Singh,Alka Yagnik"
+    },
+   "2": {
+      "Id": 2 ,
+       "Name":"Aja_Soniye",
+       "Image":"Aja_Soniye.jpg",
+       "Songs":"../Songs/Aja_Soniye.mp3",
+       "Duration":"4:58",
+       "singers":"Sajid-Wajid,Sonu Nigam,Alka Yagnik"
+    },
+   "3": {
+       "Id": 3,
+       "Name":"Apna_Bana_Le",
+       "Image":"Apna_Bana_Le.jpg",
+       "Songs":"../Songs/Apna_Bana_Le.mp3",
+       "Duration":"3:24",
+       "singers":"Arijit Singh"
+    },
+   "4": {
+       "Id": 4,
+       "Name":"Baawla",
+       "Image":"Bawla.jpg",
+       "Songs":"../Songs/Baawla.mp3",
+       "Duration":"3:8",
+       "singers":"Badshah,Uchana Amit"
+    },
+   "5": {
+       "Id": 5,
+       "Name":"Deewani_Mastani",
+       "Image":"Deewani_Mastani.jpg",
+       "Songs":"../Songs/Deewani_Mastani.mp3",
+       "Duration":"5:40",
+       "singers":"Shreya Ghoshal,Ganesh Chandanshive,Mujtaba Aziz Naza,Shadab Faridi,Altamash Faridi,Farhan Sabri,Sanjay Leela Bhansali"
+    },
+   "6": {
+       "Id": 6,
+       "Name":"Dil_Diyan_Gallan",
+       "Image":"Dil_Diyan_Gallan.jpg",
+       "Songs":"../Songs/Dil_Diyan_Gallan.mp3",
+       "Duration":"4:20",
+       "singers":"Atif Aslam"
+    },
+   "7": {
+       "Id": 7,
+       "Name":"Dil_Dooba",
+       "Image":"Dil_Dooba.jpg",
+       "Songs":"../Songs/Dil_Dooba.mp3",
+       "Duration":"3:51",
+       "singers":"Sonu Nigam,Shreya Ghoshal"
+    },
+   "8": {
+       "Id": 8,
+       "Name":"Ghoomar",
+       "Image":"Ghoomar.jpg",
+       "Songs":"../Songs/Ghoomar.mp3",
+       "Duration":"4:42",
+       "singers":"Swaroop Khan,Shreya Ghoshal"
+    },
+   "9": {
+       "Id": 9,
+       "Name":"Hare_Krishna_Hare_Ram",
+       "Image":"Hare_Krishna_Hare_Ram.jpg",
+       "Songs":"../Songs/Hare_Krishna_Hare_Ram.mp3",
+       "Duration":"5:9",
+       "singers":"Jubin Nautiyal"
+    },
+   "10": {
+       "Id": 10,
+       "Name":"Hasi",
+       "Image":"Hasi.jpg",
+       "Songs":"../Songs/Hasi.mp3",
+       "Duration":"3:12",
+       "singers":"Shreya Ghoshal"
+    },
+   "11": {
+       "Id": 11,
+       "Name":"Issa_Vibe",
+       "Image":"Issa_Vibe.jpg",
+       "Songs":"../Songs/Issa_Vibe.mp3",
+       "Duration":"2:27",
+       "singers":"Badshah,Payal Dev"
+    },
+   "12": {
+       "Id": 12,
+       "Name":"Jaadui",
+       "Image":"Jaadui.jpg",
+       "Songs":"../Songs/Jaadui.mp3",
+       "Duration":"3:47",
+       "singers":"Jubin Nautiyal"
+    },
+   "13": {
+       "Id": 13,
+       "Name":"Kamaal",
+       "Image":"Kamaal.jpg",
+       "Songs":"../Songs/Kamaal.mp3",
+       "Duration":"2:58",
+       "singers":"Badshah,Uchana Amit"
+    },
+   "14": {
+       "Id": 14,
+       "Name":"Main_Agar_Kahoon",
+       "Image":"Main_Agar_Kahoon.jpg",
+       "Songs":"../Songs/Main_Agar_Kahoon.mp3",
+       "Duration":"5:12",
+       "singers":"Sonu Nigam,Shreya Ghoshal"
+    },
+   "15": {
+       "Id": 15,
+       "Name":"Main_Rang_Sharbaton_Ka",
+       "Image":"Main_Rang_Sharbaton_Ka.jpg",
+       "Songs":"../Songs/Main_Rang_Sharbaton_Ka.mp3",
+       "Duration":"4:23",
+       "singers":"Pritam,Atif Aslam,Chinmayi Sripada"
+    },
+   "16": {
+       "Id": 16,
+       "Name":"Manike_Maage_Hithe",
+       "Image":"Manike_Maage_Hithe.jpg",
+       "Songs":"../Songs/Manike_Maage_Hithe.mp3",
+       "Duration":"3:17",
+       "singers":"Yohani,Jubin Nautiyal,Tanishk Bagchi,Surya Ragunnathan,Chamath Sangeeth"
+    },
+   "17": {
+       "Id": 17,
+       "Name":"Mere_Dholna",
+       "Image":"Mere_Dholna.jpg",
+       "Songs":"../Songs/Mere_Dholna.mp3",
+       "Duration":"6:47",
+       "singers":"Pritam,Shreya Ghoshal,M.G. Sreekumar"
+    },
+   "18": {
+       "Id": 18,
+       "Name":"Meri_Maa_Ke_Barabar",
+       "Image":"Meri_Maa_Ke_Barabar.jpg",
+       "Songs":"../Songs/Meri_Maa_Ke_Barabar.mp3",
+       "Duration":"4:58",
+       "singers":"Jubin Nautiyal"
+    },
+   "19": {
+       "Id": 19,
+       "Name":"Mohe_Rang_Do_Laal",
+       "Image":"Mohe_Rang_Do_Laal.jpg",
+       "Songs":"../Songs/Mohe_Rang_Do_Laal.mp3",
+       "Duration":"3:52",
+       "singers":"Shreya Ghoshal,Pandit Birju Maharaj"
+    },
+   "20": {
+       "Id": 20,
+       "Name":"Nagada_Sang_Dhol",
+       "Image":"Nagada_Sang_Dhol_Baje.jpg",
+       "Songs":"../Songs/Nagada_Sang_Dhol.mp3",
+       "Duration":"4:33",
+       "singers":"Shreya Ghoshal,Osman Mir - Ghantalele.com"
+    },
+   "21": {
+       "Id": 21,
+       "Name":"O_Bedardiyan",
+       "Image":"O_Bedardiyan.jpg",
+       "Songs":"../Songs/O_Bedardiyan.mp3",
+       "Duration":"2:51",
+       "singers":"Arijit Singh"
+    },
+   "22": {
+       "Id": 22,
+       "Name":"Paniyon_Sa",
+       "Image":"Paniyon_Sa.jpg",
+       "Songs":"../Songs/Paniyon_Sa.mp3",
+       "Duration":"3:56",
+       "singers":"Atif Aslam,Tulsi Kumar"
+    },
+   "23": {
+       "Id": 23,
+       "Name":"Phir_Aur_Kya_Chaiye",
+       "Image":"Phir_Aur_Kya_Chahiye.jpg",
+       "Songs":"../Songs/Phir_Aur_Kya_Chaiye.mp3",
+       "Duration":"4:26",
+       "singers":"Arijit Singh"
+    },
+   "24": {
+       "Id": 24,
+       "Name":"Rait_Zara_Si",
+       "Image":"Rait_Zara_Si.jpg",
+       "Songs":"../Songs/Rait_Zara_Si.mp3",
+       "Duration":"4:51",
+       "singers":"Shashaa Tirupati,Arijit Singh"
+    },
+   "25": {
+       "Id": 25,
+       "Name":"Sajna",
+       "Image":"Sajna.jpg",
+       "Songs":"../Songs/Sajna.mp3",
+       "Duration":"2:38",
+       "singers":"Badshah,Payal Dev"
+    },
+   "26": {
+       "Id": 26,
+       "Name":"Samjhawan",
+       "Image":"Samjhawan.jpg",
+       "Songs":"../Songs/Samjhawan.mp3",
+       "Duration":"4:29",
+       "singers":"Arijit Singh,Shreya Ghoshal"
+    },
+   "27": {
+       "Id": 27,
+       "Name":"Saware",
+       "Image":"Saware.jpg",
+       "Songs":"../Songs/Saware.mp3",
+       "Duration":"5:21",
+       "singers":"Arijit Singh"
+    },
+   "28": {
+       "Id": 28,
+       "Name":"Tera_Hua",
+       "Image":"Tera_Hua.jpg",
+       "Songs":"../Songs/Tera_Hua.mp3",
+       "Duration":"3:34",
+       "singers":"Atif Aslam"
+    },
+   "29": {
+       "Id": 29,
+       "Name":"Tere_Liye",
+       "Image":"Tere_Liye.jpg",
+       "Songs":"../Songs/Tere_Liye.mp3",
+       "Duration":"4:39",
+       "singers":"Atif Aslam,Shreya Ghoshal"
+    },
+   "30": {
+       "Id": 30,
+       "Name":"Teri_Ore",
+       "Image":"Teri_Ore.jpg",
+       "Songs":"../Songs/Teri_Ore.mp3",
+       "Duration":"5:41",
+       "singers":"Rahat Fateh Ali Khan,Shreya Ghoshal"
+    },
+   "31": {
+       "Id": 31,
+       "Name":"Tumse_Milke_Dil_Ka",
+       "Image":"Tumse_Milke_Dil_Ka.jpg",
+       "Songs":"../Songs/Tumse_Milke_Dil_Ka.mp3",
+       "Duration":"5:59",
+       "singers":"Sonu Nigam,Sabri Brothers"
+    }
+}
